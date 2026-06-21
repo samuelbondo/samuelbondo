@@ -10,43 +10,53 @@ Software engineering student and developer based in Rwanda, focused on building 
 ---
 
 ## Current Focus
-- Software Engineering degree at UNILAK (Nyanza Campus)
-- Full-stack web application development
-- Building and scaling Young Devs Ltd platforms
-- Teaching practical web development to beginners
+• Software Engineering degree at UNILAK (Nyanza Campus)  
+▪ Building full-stack web applications  
+➤ Developing Young Devs Ltd platforms and services  
+– Teaching practical programming to beginners  
 
 ---
 
 ## Tech Stack
+
 ### Frontend
-HTML, CSS, JavaScript
+• HTML  
+• CSS  
+• JavaScript  
 
 ### Backend
-PHP, MySQL
+▪ PHP  
+▪ MySQL  
 
 ### Platforms & Tools
-WordPress, Elementor, Supabase, Git, GitHub, XAMPP
+➤ WordPress  
+➤ Elementor  
+➤ Supabase  
+➤ Git & GitHub  
+➤ XAMPP  
 
 ### Concepts
-REST APIs, Authentication systems, Database design
+– REST APIs  
+– Authentication systems  
+– Database design  
 
 ---
 
 ## Projects
-- Young Devs Ltd official website
-- QR-based certificate verification system
-- Student learning management materials
-- E-commerce and booking system prototypes
+• Young Devs Ltd official website  
+▪ QR-based certificate verification system  
+➤ Student learning materials platform  
+– E-commerce and booking system prototypes  
 
 ---
 
 ## Experience
-- Founder & CEO – Young Devs Ltd
-- Web Development Instructor
-- Software Engineering Student
+• Founder & CEO – Young Devs Ltd  
+▪ Web Development Instructor  
+➤ Software Engineering Student  
 
 ---
 
 ## Contact
-- Email: info@youngdevsofficial.com
-- Website: https://youngdevsofficial.com
+• Email: info@youngdevsofficial.com  
+▪ Website: https://youngdevsofficial.com  
