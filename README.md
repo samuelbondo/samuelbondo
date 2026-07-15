@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a full stack developer who builds web systems from scratch — from the database to the UI. I run Young Devs Ltd where I lead web development projects and teach programming to the next generation of developers.
+I'm a full stack developer who builds and ships real web systems — from e-commerce platforms to management systems to ministry websites. I run Young Devs Ltd where I lead development projects and teach programming.
 
 - 🏢 Founder & CEO — [Young Devs Ltd](https://youngdevsofficial.com)
 - 🎓 BSc Software Engineering — UNILAK (Nyanza Campus)
@@ -29,15 +29,24 @@ I'm a full stack developer who builds web systems from scratch — from the data
 **Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Tools & Platforms**
+**Cloud & Deployment**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 **What I work with**
@@ -55,9 +64,13 @@ I'm a full stack developer who builds web systems from scratch — from the data
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [Student Management System](https://github.com/samuelbondo/innovation-hub) | PHP · MySQL · JS | Full role-based SMS — admin, teacher & student portals |
+| [Young Devs Ltd](https://youngdevsofficial.com) | Laravel · MySQL · JS | My company — web development services & tech training |
+| [YDShop](https://shop.youngdevsofficial.com) | Laravel · MySQL · JS | Multi-vendor e-commerce platform with WhatsApp integration |
+| [REACH System](https://reach.youngdevsofficial.com) | Laravel · MySQL · JS | Platform for a non-profit managing community services & scholarships |
+| [YA4C](https://ya4c.youngdevsofficial.com) | Laravel · MySQL · JS | Digital platform for a Christian youth organization at UNILAK |
+| [ESFANS Academy](https://efansacademy.com) | Laravel · MySQL · JS | Full school management system for a K–12 school in Liberia |
+| [Student Management System](https://github.com/samuelbondo/innovation-hub) | PHP · MySQL · JS | Open-source role-based SMS — admin, teacher & student portals |
 | [E-Commerce Web App](https://github.com/samuelbondo/ecommerce-web-app) | React · Node.js · MySQL | Store with JWT auth, Google/Facebook OAuth and PayPal |
-| [Young Devs Ltd](https://youngdevsofficial.com) | WordPress | My company — tech training & web development services |
 
 ---
 
