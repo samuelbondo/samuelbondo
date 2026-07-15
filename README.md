@@ -1,6 +1,6 @@
 # Samuel Bondo 👋
 
-**Full Stack Developer · Software Engineering Student · Founder & CEO @ [Young Devs Ltd](https://youngdevsofficial.com)**
+**Full Stack Developer · Founder & CEO @ [Young Devs Ltd](https://youngdevsofficial.com)**
 
 🇷🇼 Kigali, Rwanda
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a software engineering student at UNILAK and a full stack developer. I build web systems from scratch — from the database to the UI. I also run Young Devs Ltd where I teach programming and help beginners get job-ready.
+I'm a full stack developer who builds web systems from scratch — from the database to the UI. I run Young Devs Ltd where I lead web development projects and teach programming to the next generation of developers.
 
 - 🏢 Founder & CEO — [Young Devs Ltd](https://youngdevsofficial.com)
 - 🎓 BSc Software Engineering — UNILAK (Nyanza Campus)
@@ -47,7 +47,7 @@ I'm a software engineering student at UNILAK and a full stack developer. I build
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 - Role-Based Access Control · Database Design
-- E-Commerce · Student Systems · Booking Platforms
+- E-Commerce · Management Systems · Booking Platforms
 
 ---
 
