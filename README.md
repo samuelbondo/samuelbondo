@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="samuel.png" width="170" height="170" style="border-radius:50%;" alt="Samuel Bondo" />
+  <img src="https://avatars.githubusercontent.com/samuelbondo?v=4&s=170" width="170" height="170" alt="Samuel Bondo" />
 </p>
 
 <h1 align="center">Hi, I'm Samuel Bondo 👋</h1>
