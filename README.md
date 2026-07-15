@@ -29,7 +29,7 @@ Building scalable web applications, empowering developers, and creating technolo
 
 ## About Me
 
-I'm a software engineer and full stack developer passionate about designing, building, and deploying real-world web applications — from e-commerce platforms and school management systems to nonprofit and ministry websites. I enjoy transforming ideas into secure, scalable, and user-focused software.
+I'm a software engineer and full stack developer passionate about designing, building, and deploying real-world web applications from e-commerce platforms and school management systems to nonprofit and ministry websites. I enjoy transforming ideas into secure, scalable, and user-focused software.
 
 As the Founder & CEO of [Young Devs Ltd](https://youngdevsofficial.com), I lead development projects, mentor aspiring developers, and promote tech education through practical, hands-on learning.
 
@@ -89,7 +89,7 @@ As the Founder & CEO of [Young Devs Ltd](https://youngdevsofficial.com), I lead 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Stack | Description |
 | :------ | :---- | :---------- |
