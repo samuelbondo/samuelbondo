@@ -82,7 +82,7 @@ I'm a full stack developer who builds and ships real web systems — from e-comm
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samuelbondo&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=samuelbondo&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -95,4 +95,4 @@ I'm a full stack developer who builds and ships real web systems — from e-comm
 
 ---
 
-*I build things. I teach people. I keep going.* 🚀
+*I build things. I teach people. I keep going.*
