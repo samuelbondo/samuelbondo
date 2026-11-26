@@ -152,19 +152,19 @@ The previous external trophy service has been removed to avoid broken images. I 
   <img src="https://streak-stats.demolab.com?user=samuelbondo&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Contribution Streak" />
 </p>
 
+
 ---
 
 ## Contribution Activity
 
-For a reliable contribution history, GitHub's native contribution graph is available directly on my profile.
-
 <p align="center">
   <a href="https://github.com/samuelbondo">
-    <img src="https://img.shields.io/badge/View_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions" />
+    View my GitHub contribution history and activity
   </a>
 </p>
 
 ---
+
 
 ## Let's Collaborate
 
