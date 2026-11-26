@@ -1,4 +1,4 @@
-\<p align="center">\
+ \<p align="center">\
 &#x20; \<img src="https\://avatars.githubusercontent.com/samuelbondo?v=4&s=170" width="170" height="170" alt="Samuel Bondo" />\
 \</p>\
 \
